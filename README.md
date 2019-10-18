@@ -1,9 +1,3 @@
 # Search engine
-Beginner:
-Basic formatting of code such as editing out the unwanted text, adding comments,removing unused variables,adding more websites to the text file,etc.
+A search engine helps in surfing the net. The above code helps in performing the same task with a few issues.
 
-Intermediate:
-Searching for errors and correcting them.
-
-Expert:
-Enhancing the code and optimizing it to work more efficiently
