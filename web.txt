@@ -7,3 +7,14 @@ niit.com
 stackoverflow.com
 github.com
 nkyoung.com
+sohu.com
+netflix.com
+blogspot.com
+csdn.net
+bing.com
+ebay.com
+office.com
+imdb.com
+whatsapp.com
+apple.com
+github.com
